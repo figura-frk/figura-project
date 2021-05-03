@@ -13,3 +13,4 @@ import { StoreMainComponent } from './store-main/store-main.component';
   ]
 })
 export class StoreModule { }
+
