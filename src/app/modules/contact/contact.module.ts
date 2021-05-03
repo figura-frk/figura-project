@@ -1,14 +1,13 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+// @ts-ignore
 import { ContactComponent } from './contact/contact.component';
-import { ConatcComponent } from './conatc/conatc.component';
 
 
 
 @NgModule({
   declarations: [
     ContactComponent,
-    ConatcComponent
   ],
   imports: [
     CommonModule
